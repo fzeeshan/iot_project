@@ -1,4 +1,6 @@
 -- create a database called iot
+CREATE DATABASE `iot` /*!40100 DEFAULT CHARACTER SET utf8mb4 COLLATE utf8mb4_0900_ai_ci */;
+
 -- create a table, use any table name
 -- this example uses a table called: rand_one
 CREATE TABLE `rand_one` (
