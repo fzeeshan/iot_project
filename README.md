@@ -1,15 +1,22 @@
 # IOT Visualization and Advanced Analytics Project
 Object of the project is to capture IOT data in a database and visualize it.
-## objective 1
+## Objective 1
 Generate "Fake/Sample" Data
 Store the data in a database
-## objective 2
+## Objective 2
 Visualize the data
-## objective 3
+## Objective 3
 use Machine Learning code to test out visualization for predictive analytics
 
-## Tools to be used:
+## Data Generation:
+Python will be used to generate sample data
+## Data Storage
+multiple Databases will be used to store the data for testing purpose
+A Timeseries database is ideal
+## Visualization
+Tools such as Grafan, Node.js or other web based technology will be  used
+## Machine Learning
+Python with tensorflow and other libraries will be used depending on the code
+## Included files (In Progress)
+mysql_test.py contains code that generates sample data and adds to a mysql table.
 
-Grafan will be one of the tools for visualization.
-
-mysql_test.py contains code to add sample data to a mysql table.
