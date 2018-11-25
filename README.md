@@ -20,4 +20,5 @@ Python with tensorflow and other libraries will be used depending on the code
 ## Included files (In Progress)
 mysql_test.py contains code that generates sample data and adds to a mysql table.
 schema.sql contains mysql schema and table creation code.
+iot_data_elastic_search.py (In Prgress) will contain code to enter random data into ElasticSearch
 Note: This is a personal project (Not Forked)
